@@ -1,0 +1,24 @@
+.navbar-brand {
+    font-family: "Monospace", cursive;
+    font-weight: bolder;
+    font-size: 25px;
+  }
+  #navbarNav {
+    font-family: "Fantasy", sans-serif;
+    font-weight: 800;
+  }
+  h1 {
+    font-family: "Marck Script", cursive;
+    font-weight: bolder;
+  }
+  .lead {
+    font-family: "arial", sans-serif;
+    font-size: medium;
+  }
+  #gallery {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .caption {
+    font-family: "Averia Libre", cursive;
+  }
